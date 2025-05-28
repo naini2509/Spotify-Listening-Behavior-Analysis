@@ -1,60 +1,78 @@
-Spotify Listening Analytics Dashboard (Power BI)
+**Spotify Listening Analytics Dashboard (Power BI)**
 ![image](https://github.com/user-attachments/assets/87ce7c82-e4c1-4030-b825-6cb535474df3)
 
 This project delivers an interactive and insightful Power BI dashboard built to analyze Spotify listening behavior. It transforms raw track data into meaningful visualizations, uncovering trends across time, platforms, artists, and user engagement patterns.
 
-Project Purpose
-The goal is to help stakeholders (product managers, marketers, and user analysts) explore:
+💼 **Project Purpose**
 
-Listening trends over time (albums, artists, tracks)
+The goal is to help stakeholders — product managers, marketers, user analysts — explore:
 
-Engagement patterns across platforms (desktop, mobile, web, smart speaker)
+🎶 Listening trends over time (albums, artists, tracks)
 
-Peak listening hours and days
+📱 Engagement patterns across platforms (desktop, mobile, web, smart speaker)
 
-Skip, shuffle, and replay behavior
+🕒 Peak listening hours and days
 
-Top-performing tracks, artists, and albums
+⏭️ Skip, shuffle, and replay behavior
 
-Key Features
+🏆 Top-performing tracks, artists, and albums
+
+
+🔍 **Key Features**
+
 ✅ Time-series trends (albums, artists, tracks)
+
 ✅ LY vs. PY (Latest Year vs. Previous Year) & YoY (Year-over-Year) comparisons
+
 ✅ Weekday vs. weekend breakdowns
+
 ✅ Top 5 rankings (albums, artists, tracks)
+
 ✅ Listening heat map (hour/day patterns)
+
 ✅ Scatter plot (average listening time vs. track frequency) with quadrant insights
+
 ✅ Drill-through & drill-down details grid (album, artist, track)
+
 ✅ Exportable grid data for detailed CSV analysis
 
-Data Fields Analyzed
-spotify_track_uri → unique track identifier
 
-ts → playback end timestamp
+📊 **Data Fields Analyzed**
 
-platform → device/platform used
+🏷️ spotify_track_uri → Unique track identifier
 
-ms_played → milliseconds played
+🕓 ts → Playback end timestamp
 
-track_name, artist_name, album_name → key metadata
+💻 platform → Device/platform used (desktop, mobile, web, smart speaker)
 
-reason_start, reason_end → behavioral triggers
+⏱️ ms_played → Milliseconds played
 
-shuffle, skipped → playback behaviors
+🎵 track_name, artist_name, album_name → Key metadata
 
-Tools Used
-Power BI Desktop
+🎬 reason_start, reason_end → Behavioral triggers
 
-DAX measures & calculated columns
+🔀 shuffle, skipped → Playback behaviors
 
-Heat maps, scatter plots, time-series visuals
 
-Drill-through & hierarchical navigation
+⚙️ **Tools Used**
 
-CSV export functionality
+🖥️ Power BI Desktop
 
-How to Run
-1️⃣ Load the .pbix file in Power BI Desktop.
-2️⃣ Connect to the provided Spotify dataset.
-3️⃣ Explore the dashboard interactively using filters, slicers, and drill features.
-4️⃣ Export data or visuals as needed.
+🔧 DAX measures & calculated columns
 
+📈 Heat maps, scatter plots, time-series visuals
+
+🔍 Drill-through & hierarchical navigation
+
+📤 CSV export functionality
+
+
+🚀 **How to Run**
+
+1️⃣ Download and open the .pbix file in Power BI Desktop
+
+2️⃣ Connect to the provided Spotify dataset
+
+3️⃣ Explore the dashboard interactively using filters, slicers, drill-through
+
+4️⃣ Export data or visuals as needed
