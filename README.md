@@ -69,19 +69,19 @@ ________________________________________
 ________________________________________
 🏗️ **Steps Followed**
 
-Data extraction and cleansing
+1.Data extraction and cleansing
 
-Data modeling and relationship building in Power BI
+2.Data modeling and relationship building in Power BI
 
-Creation of calculated columns and DAX measures
+3.Creation of calculated columns and DAX measures
 
-Development of visualizations (time series, heat maps, scatter plots)
+4.Development of visualizations (time series, heat maps, scatter plots)
 	
-Integration of drill-through and hierarchical navigation
+5.Integration of drill-through and hierarchical navigation
 	
-Building exportable, interactive grids
+6.Building exportable, interactive grids
 
-Final dashboard testing and validation
+7.Final dashboard testing and validation
 ________________________________________
 ✨ **Key Highlights**
 
