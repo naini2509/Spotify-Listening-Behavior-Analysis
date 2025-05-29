@@ -1,4 +1,6 @@
 🎧 **Spotify Listening Behavior Analysis Dashboard (Power BI)**
+
+Explore the Dashboard - https://app.powerbi.com/view?r=eyJrIjoiMmVjMDliNDgtMzQ5Zi00MGI1LTg3YTAtMTM0NDgwNjMwZDUzIiwidCI6IjNjMTU2MDYwLTcyNWMtNDJiOS1hZWYwLWI5YmIyZDFiZWI0OCIsImMiOjJ9
                               
 ________________________________________
 📖 **Project Overview**
@@ -69,19 +71,19 @@ ________________________________________
 ________________________________________
 🏗️ **Steps Followed**
 
-1.Data extraction and cleansing
+1. Data extraction and cleansing
 
-2.Data modeling and relationship building in Power BI
+2. Data modeling and relationship building in Power BI
 
-3.Creation of calculated columns and DAX measures
+3. Creation of calculated columns and DAX measures
 
-4.Development of visualizations (time series, heat maps, scatter plots)
+4. Development of visualizations (time series, heat maps, scatter plots)
 	
-5.Integration of drill-through and hierarchical navigation
+5. Integration of drill-through and hierarchical navigation
 	
-6.Building exportable, interactive grids
+6. Building exportable, interactive grids
 
-7.Final dashboard testing and validation
+7. Final dashboard testing and validation
 ________________________________________
 ✨ **Key Highlights**
 
